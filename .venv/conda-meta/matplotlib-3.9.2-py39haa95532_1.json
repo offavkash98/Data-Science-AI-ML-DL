@@ -1,0 +1,34 @@
+{
+  "build": "py39haa95532_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.9,<3.10.0a0",
+    "tornado >=5",
+    "pyqt >=5",
+    "matplotlib-base >=3.9.2,<3.9.3.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\LENOVO\\anaconda3\\pkgs\\matplotlib-3.9.2-py39haa95532_1",
+  "files": [],
+  "fn": "matplotlib-3.9.2-py39haa95532_1.conda",
+  "license": "LicenseRef-PSF-based",
+  "link": {
+    "source": "C:\\Users\\LENOVO\\anaconda3\\pkgs\\matplotlib-3.9.2-py39haa95532_1",
+    "type": 1
+  },
+  "md5": "f5236ac027aa1d916bc603ce1323452a",
+  "name": "matplotlib",
+  "package_tarball_full_path": "C:\\Users\\LENOVO\\anaconda3\\pkgs\\matplotlib-3.9.2-py39haa95532_1.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "matplotlib",
+  "sha256": "ee13864ea43dde7bea927653aa7dc69148b8c0e1e033a72d21a40ca2f2a6095b",
+  "size": 7772,
+  "subdir": "win-64",
+  "timestamp": 1732551863000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/matplotlib-3.9.2-py39haa95532_1.conda",
+  "version": "3.9.2"
+}

@@ -1,0 +1,12 @@
+prefix=d:/DS-Project/Data-Science-AI-ML-DL/.venv/Library
+exec_prefix=d:/DS-Project/Data-Science-AI-ML-DL/.venv/Library
+libdir=d:/DS-Project/Data-Science-AI-ML-DL/.venv/Library/lib
+includedir=d:/DS-Project/Data-Science-AI-ML-DL/.venv/Library/include
+
+Name: libzmq
+Description: 0MQ c++ library
+Version: 4.3.5
+Libs: -L${libdir} -lzmq
+Libs.private: -lstdc++ 
+Requires.private: 
+Cflags: -I${includedir} 

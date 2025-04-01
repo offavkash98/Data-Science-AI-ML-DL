@@ -1,0 +1,383 @@
+==> 2025-04-01 11:18:32 <==
+# cmd: C:\Users\LENOVO\anaconda3\Scripts\conda-script.py create --prefix D:\DS-Project\Data-Science-AI-ML-DL\.venv python=3.9
+# conda version: 24.11.3
++defaults/noarch::tzdata-2025a-h04d1e81_0
++defaults/win-64::ca-certificates-2025.2.25-haa95532_0
++defaults/win-64::openssl-3.0.16-h3f729d1_0
++defaults/win-64::pip-25.0-py39haa95532_0
++defaults/win-64::python-3.9.21-h8205438_1
++defaults/win-64::setuptools-75.8.0-py39haa95532_0
++defaults/win-64::sqlite-3.45.3-h2bbff1b_0
++defaults/win-64::vc-14.42-haa95532_4
++defaults/win-64::vs2015_runtime-14.42.34433-he0abc0d_4
++defaults/win-64::wheel-0.45.1-py39haa95532_0
+# update specs: ['python=3.9']
+==> 2025-04-01 11:24:26 <==
+# cmd: C:\Users\LENOVO\anaconda3\Scripts\conda-script.py install pandas numpy matplotlib -y
+# conda version: 24.11.3
+-defaults/win-64::setuptools-75.8.0-py39haa95532_0
++defaults/noarch::cycler-0.11.0-pyhd3eb1b0_0
++defaults/noarch::python-tzdata-2023.3-pyhd3eb1b0_0
++defaults/noarch::six-1.16.0-pyhd3eb1b0_1
++defaults/win-64::blas-1.0-mkl
++defaults/win-64::bottleneck-1.4.2-py39hc99e966_0
++defaults/win-64::brotli-python-1.0.9-py39h5da7b33_9
++defaults/win-64::contourpy-1.2.1-py39h214f63a_1
++defaults/win-64::fonttools-4.55.3-py39h827c3e9_0
++defaults/win-64::freetype-2.12.1-ha860e81_0
++defaults/win-64::icu-73.1-h6c2663c_0
++defaults/win-64::importlib_resources-6.4.0-py39haa95532_0
++defaults/win-64::intel-openmp-2023.1.0-h59b6b97_46320
++defaults/win-64::jpeg-9e-h827c3e9_3
++defaults/win-64::kiwisolver-1.4.4-py39hd77b12b_0
++defaults/win-64::krb5-1.20.1-h5b6d351_0
++defaults/win-64::lcms2-2.16-hb4a4139_0
++defaults/win-64::lerc-4.0.0-h5da7b33_0
++defaults/win-64::libdeflate-1.22-h5bf469e_0
++defaults/win-64::libpng-1.6.39-h8cc25b3_0
++defaults/win-64::libpq-17.4-h70ee33d_0
++defaults/win-64::libtiff-4.5.1-h44ae7cf_1
++defaults/win-64::libwebp-base-1.3.2-h3d04722_1
++defaults/win-64::lz4-c-1.9.4-h2bbff1b_1
++defaults/win-64::matplotlib-3.9.2-py39haa95532_1
++defaults/win-64::matplotlib-base-3.9.2-py39he19b0ae_1
++defaults/win-64::mkl-2023.1.0-h6b88ed4_46358
++defaults/win-64::mkl-service-2.4.0-py39h827c3e9_2
++defaults/win-64::mkl_fft-1.3.11-py39h827c3e9_0
++defaults/win-64::mkl_random-1.2.8-py39hc64d2fc_0
++defaults/win-64::numexpr-2.10.1-py39h4cd664f_0
++defaults/win-64::numpy-2.0.2-py39h055cbcc_0
++defaults/win-64::numpy-base-2.0.2-py39h65a83cf_0
++defaults/win-64::openjpeg-2.5.2-hae555c5_0
++defaults/win-64::packaging-24.2-py39haa95532_0
++defaults/win-64::pandas-2.2.3-py39h5da7b33_0
++defaults/win-64::pillow-11.1.0-py39h096bfcc_0
++defaults/win-64::pyparsing-3.2.0-py39haa95532_0
++defaults/win-64::pyqt-6.7.1-py39h5da7b33_0
++defaults/win-64::pyqt6-sip-13.9.1-py39h827c3e9_0
++defaults/win-64::python-dateutil-2.9.0post0-py39haa95532_2
++defaults/win-64::pytz-2024.1-py39haa95532_0
++defaults/win-64::qtbase-6.7.3-h0804d20_0
++defaults/win-64::qtdeclarative-6.7.3-h5da7b33_0
++defaults/win-64::qtsvg-6.7.3-hf2fb9eb_0
++defaults/win-64::qttools-6.7.3-h0de5f00_0
++defaults/win-64::qtwebchannel-6.7.3-h5da7b33_0
++defaults/win-64::qtwebsockets-6.7.3-h5da7b33_0
++defaults/win-64::setuptools-72.1.0-py39haa95532_0
++defaults/win-64::sip-6.10.0-py39h5da7b33_0
++defaults/win-64::tbb-2021.8.0-h59b6b97_0
++defaults/win-64::tomli-2.0.1-py39haa95532_0
++defaults/win-64::tornado-6.4.2-py39h827c3e9_0
++defaults/win-64::unicodedata2-15.1.0-py39h827c3e9_1
++defaults/win-64::xz-5.6.4-h4754444_1
++defaults/win-64::zipp-3.21.0-py39haa95532_0
++defaults/win-64::zlib-1.2.13-h8cc25b3_1
++defaults/win-64::zstd-1.5.6-h8880b57_0
+# update specs: ['matplotlib', 'numpy', 'pandas']
+==> 2025-04-01 11:27:06 <==
+# cmd: C:\Users\LENOVO\anaconda3\Scripts\conda-script.py remove numpy pandas matplotlib -y
+# conda version: 24.11.3
+-defaults/noarch::cycler-0.11.0-pyhd3eb1b0_0
+-defaults/noarch::python-tzdata-2023.3-pyhd3eb1b0_0
+-defaults/noarch::six-1.16.0-pyhd3eb1b0_1
+-defaults/win-64::blas-1.0-mkl
+-defaults/win-64::bottleneck-1.4.2-py39hc99e966_0
+-defaults/win-64::brotli-python-1.0.9-py39h5da7b33_9
+-defaults/win-64::contourpy-1.2.1-py39h214f63a_1
+-defaults/win-64::fonttools-4.55.3-py39h827c3e9_0
+-defaults/win-64::freetype-2.12.1-ha860e81_0
+-defaults/win-64::icu-73.1-h6c2663c_0
+-defaults/win-64::importlib_resources-6.4.0-py39haa95532_0
+-defaults/win-64::intel-openmp-2023.1.0-h59b6b97_46320
+-defaults/win-64::jpeg-9e-h827c3e9_3
+-defaults/win-64::kiwisolver-1.4.4-py39hd77b12b_0
+-defaults/win-64::krb5-1.20.1-h5b6d351_0
+-defaults/win-64::lcms2-2.16-hb4a4139_0
+-defaults/win-64::lerc-4.0.0-h5da7b33_0
+-defaults/win-64::libdeflate-1.22-h5bf469e_0
+-defaults/win-64::libpng-1.6.39-h8cc25b3_0
+-defaults/win-64::libpq-17.4-h70ee33d_0
+-defaults/win-64::libtiff-4.5.1-h44ae7cf_1
+-defaults/win-64::libwebp-base-1.3.2-h3d04722_1
+-defaults/win-64::lz4-c-1.9.4-h2bbff1b_1
+-defaults/win-64::matplotlib-3.9.2-py39haa95532_1
+-defaults/win-64::matplotlib-base-3.9.2-py39he19b0ae_1
+-defaults/win-64::mkl-2023.1.0-h6b88ed4_46358
+-defaults/win-64::mkl-service-2.4.0-py39h827c3e9_2
+-defaults/win-64::mkl_fft-1.3.11-py39h827c3e9_0
+-defaults/win-64::mkl_random-1.2.8-py39hc64d2fc_0
+-defaults/win-64::numexpr-2.10.1-py39h4cd664f_0
+-defaults/win-64::numpy-2.0.2-py39h055cbcc_0
+-defaults/win-64::numpy-base-2.0.2-py39h65a83cf_0
+-defaults/win-64::openjpeg-2.5.2-hae555c5_0
+-defaults/win-64::packaging-24.2-py39haa95532_0
+-defaults/win-64::pandas-2.2.3-py39h5da7b33_0
+-defaults/win-64::pillow-11.1.0-py39h096bfcc_0
+-defaults/win-64::pyparsing-3.2.0-py39haa95532_0
+-defaults/win-64::pyqt-6.7.1-py39h5da7b33_0
+-defaults/win-64::pyqt6-sip-13.9.1-py39h827c3e9_0
+-defaults/win-64::python-dateutil-2.9.0post0-py39haa95532_2
+-defaults/win-64::pytz-2024.1-py39haa95532_0
+-defaults/win-64::qtbase-6.7.3-h0804d20_0
+-defaults/win-64::qtdeclarative-6.7.3-h5da7b33_0
+-defaults/win-64::qtsvg-6.7.3-hf2fb9eb_0
+-defaults/win-64::qttools-6.7.3-h0de5f00_0
+-defaults/win-64::qtwebchannel-6.7.3-h5da7b33_0
+-defaults/win-64::qtwebsockets-6.7.3-h5da7b33_0
+-defaults/win-64::sip-6.10.0-py39h5da7b33_0
+-defaults/win-64::tbb-2021.8.0-h59b6b97_0
+-defaults/win-64::tomli-2.0.1-py39haa95532_0
+-defaults/win-64::tornado-6.4.2-py39h827c3e9_0
+-defaults/win-64::unicodedata2-15.1.0-py39h827c3e9_1
+-defaults/win-64::xz-5.6.4-h4754444_1
+-defaults/win-64::zipp-3.21.0-py39haa95532_0
+-defaults/win-64::zlib-1.2.13-h8cc25b3_1
+-defaults/win-64::zstd-1.5.6-h8880b57_0
+# remove specs: ['pandas', 'matplotlib', 'numpy']
+==> 2025-04-01 11:30:50 <==
+# cmd: C:\Users\LENOVO\anaconda3\Scripts\conda-script.py install numpy pandas matplotlib -y
+# conda version: 24.11.3
++defaults/noarch::cycler-0.11.0-pyhd3eb1b0_0
++defaults/noarch::python-tzdata-2023.3-pyhd3eb1b0_0
++defaults/noarch::six-1.16.0-pyhd3eb1b0_1
++defaults/win-64::blas-1.0-mkl
++defaults/win-64::bottleneck-1.4.2-py39hc99e966_0
++defaults/win-64::brotli-python-1.0.9-py39h5da7b33_9
++defaults/win-64::contourpy-1.2.1-py39h214f63a_1
++defaults/win-64::fonttools-4.55.3-py39h827c3e9_0
++defaults/win-64::freetype-2.12.1-ha860e81_0
++defaults/win-64::icu-73.1-h6c2663c_0
++defaults/win-64::importlib_resources-6.4.0-py39haa95532_0
++defaults/win-64::intel-openmp-2023.1.0-h59b6b97_46320
++defaults/win-64::jpeg-9e-h827c3e9_3
++defaults/win-64::kiwisolver-1.4.4-py39hd77b12b_0
++defaults/win-64::krb5-1.20.1-h5b6d351_0
++defaults/win-64::lcms2-2.16-hb4a4139_0
++defaults/win-64::lerc-4.0.0-h5da7b33_0
++defaults/win-64::libdeflate-1.22-h5bf469e_0
++defaults/win-64::libpng-1.6.39-h8cc25b3_0
++defaults/win-64::libpq-17.4-h70ee33d_0
++defaults/win-64::libtiff-4.5.1-h44ae7cf_1
++defaults/win-64::libwebp-base-1.3.2-h3d04722_1
++defaults/win-64::lz4-c-1.9.4-h2bbff1b_1
++defaults/win-64::matplotlib-3.9.2-py39haa95532_1
++defaults/win-64::matplotlib-base-3.9.2-py39he19b0ae_1
++defaults/win-64::mkl-2023.1.0-h6b88ed4_46358
++defaults/win-64::mkl-service-2.4.0-py39h827c3e9_2
++defaults/win-64::mkl_fft-1.3.11-py39h827c3e9_0
++defaults/win-64::mkl_random-1.2.8-py39hc64d2fc_0
++defaults/win-64::numexpr-2.10.1-py39h4cd664f_0
++defaults/win-64::numpy-2.0.2-py39h055cbcc_0
++defaults/win-64::numpy-base-2.0.2-py39h65a83cf_0
++defaults/win-64::openjpeg-2.5.2-hae555c5_0
++defaults/win-64::packaging-24.2-py39haa95532_0
++defaults/win-64::pandas-2.2.3-py39h5da7b33_0
++defaults/win-64::pillow-11.1.0-py39h096bfcc_0
++defaults/win-64::pyparsing-3.2.0-py39haa95532_0
++defaults/win-64::pyqt-6.7.1-py39h5da7b33_0
++defaults/win-64::pyqt6-sip-13.9.1-py39h827c3e9_0
++defaults/win-64::python-dateutil-2.9.0post0-py39haa95532_2
++defaults/win-64::pytz-2024.1-py39haa95532_0
++defaults/win-64::qtbase-6.7.3-h0804d20_0
++defaults/win-64::qtdeclarative-6.7.3-h5da7b33_0
++defaults/win-64::qtsvg-6.7.3-hf2fb9eb_0
++defaults/win-64::qttools-6.7.3-h0de5f00_0
++defaults/win-64::qtwebchannel-6.7.3-h5da7b33_0
++defaults/win-64::qtwebsockets-6.7.3-h5da7b33_0
++defaults/win-64::sip-6.10.0-py39h5da7b33_0
++defaults/win-64::tbb-2021.8.0-h59b6b97_0
++defaults/win-64::tomli-2.0.1-py39haa95532_0
++defaults/win-64::tornado-6.4.2-py39h827c3e9_0
++defaults/win-64::unicodedata2-15.1.0-py39h827c3e9_1
++defaults/win-64::xz-5.6.4-h4754444_1
++defaults/win-64::zipp-3.21.0-py39haa95532_0
++defaults/win-64::zlib-1.2.13-h8cc25b3_1
++defaults/win-64::zstd-1.5.6-h8880b57_0
+# update specs: ['matplotlib', 'numpy', 'pandas']
+==> 2025-04-01 11:36:51 <==
+# cmd: C:\Users\LENOVO\anaconda3\Scripts\conda-script.py remove numpy -y
+# conda version: 24.11.3
+-defaults/noarch::cycler-0.11.0-pyhd3eb1b0_0
+-defaults/noarch::python-tzdata-2023.3-pyhd3eb1b0_0
+-defaults/noarch::six-1.16.0-pyhd3eb1b0_1
+-defaults/win-64::blas-1.0-mkl
+-defaults/win-64::bottleneck-1.4.2-py39hc99e966_0
+-defaults/win-64::brotli-python-1.0.9-py39h5da7b33_9
+-defaults/win-64::contourpy-1.2.1-py39h214f63a_1
+-defaults/win-64::fonttools-4.55.3-py39h827c3e9_0
+-defaults/win-64::freetype-2.12.1-ha860e81_0
+-defaults/win-64::icu-73.1-h6c2663c_0
+-defaults/win-64::importlib_resources-6.4.0-py39haa95532_0
+-defaults/win-64::intel-openmp-2023.1.0-h59b6b97_46320
+-defaults/win-64::jpeg-9e-h827c3e9_3
+-defaults/win-64::kiwisolver-1.4.4-py39hd77b12b_0
+-defaults/win-64::krb5-1.20.1-h5b6d351_0
+-defaults/win-64::lcms2-2.16-hb4a4139_0
+-defaults/win-64::lerc-4.0.0-h5da7b33_0
+-defaults/win-64::libdeflate-1.22-h5bf469e_0
+-defaults/win-64::libpng-1.6.39-h8cc25b3_0
+-defaults/win-64::libpq-17.4-h70ee33d_0
+-defaults/win-64::libtiff-4.5.1-h44ae7cf_1
+-defaults/win-64::libwebp-base-1.3.2-h3d04722_1
+-defaults/win-64::lz4-c-1.9.4-h2bbff1b_1
+-defaults/win-64::matplotlib-3.9.2-py39haa95532_1
+-defaults/win-64::matplotlib-base-3.9.2-py39he19b0ae_1
+-defaults/win-64::mkl-2023.1.0-h6b88ed4_46358
+-defaults/win-64::mkl-service-2.4.0-py39h827c3e9_2
+-defaults/win-64::mkl_fft-1.3.11-py39h827c3e9_0
+-defaults/win-64::mkl_random-1.2.8-py39hc64d2fc_0
+-defaults/win-64::numexpr-2.10.1-py39h4cd664f_0
+-defaults/win-64::numpy-2.0.2-py39h055cbcc_0
+-defaults/win-64::numpy-base-2.0.2-py39h65a83cf_0
+-defaults/win-64::openjpeg-2.5.2-hae555c5_0
+-defaults/win-64::packaging-24.2-py39haa95532_0
+-defaults/win-64::pandas-2.2.3-py39h5da7b33_0
+-defaults/win-64::pillow-11.1.0-py39h096bfcc_0
+-defaults/win-64::pyparsing-3.2.0-py39haa95532_0
+-defaults/win-64::pyqt-6.7.1-py39h5da7b33_0
+-defaults/win-64::pyqt6-sip-13.9.1-py39h827c3e9_0
+-defaults/win-64::python-dateutil-2.9.0post0-py39haa95532_2
+-defaults/win-64::pytz-2024.1-py39haa95532_0
+-defaults/win-64::qtbase-6.7.3-h0804d20_0
+-defaults/win-64::qtdeclarative-6.7.3-h5da7b33_0
+-defaults/win-64::qtsvg-6.7.3-hf2fb9eb_0
+-defaults/win-64::qttools-6.7.3-h0de5f00_0
+-defaults/win-64::qtwebchannel-6.7.3-h5da7b33_0
+-defaults/win-64::qtwebsockets-6.7.3-h5da7b33_0
+-defaults/win-64::sip-6.10.0-py39h5da7b33_0
+-defaults/win-64::tbb-2021.8.0-h59b6b97_0
+-defaults/win-64::tomli-2.0.1-py39haa95532_0
+-defaults/win-64::tornado-6.4.2-py39h827c3e9_0
+-defaults/win-64::unicodedata2-15.1.0-py39h827c3e9_1
+-defaults/win-64::xz-5.6.4-h4754444_1
+-defaults/win-64::zipp-3.21.0-py39haa95532_0
+-defaults/win-64::zlib-1.2.13-h8cc25b3_1
+-defaults/win-64::zstd-1.5.6-h8880b57_0
+# remove specs: ['numpy']
+==> 2025-04-01 11:37:39 <==
+# cmd: C:\Users\LENOVO\anaconda3\Scripts\conda-script.py install numpy -y
+# conda version: 24.11.3
++defaults/win-64::blas-1.0-mkl
++defaults/win-64::intel-openmp-2023.1.0-h59b6b97_46320
++defaults/win-64::mkl-2023.1.0-h6b88ed4_46358
++defaults/win-64::mkl-service-2.4.0-py39h827c3e9_2
++defaults/win-64::mkl_fft-1.3.11-py39h827c3e9_0
++defaults/win-64::mkl_random-1.2.8-py39hc64d2fc_0
++defaults/win-64::numpy-2.0.2-py39h055cbcc_0
++defaults/win-64::numpy-base-2.0.2-py39h65a83cf_0
++defaults/win-64::tbb-2021.8.0-h59b6b97_0
+# update specs: ['numpy']
+==> 2025-04-01 11:40:31 <==
+# cmd: C:\Users\LENOVO\anaconda3\Scripts\conda-script.py install pandas matplotlib -y
+# conda version: 24.11.3
++defaults/noarch::cycler-0.11.0-pyhd3eb1b0_0
++defaults/noarch::python-tzdata-2023.3-pyhd3eb1b0_0
++defaults/noarch::six-1.16.0-pyhd3eb1b0_1
++defaults/win-64::bottleneck-1.4.2-py39hc99e966_0
++defaults/win-64::brotli-python-1.0.9-py39h5da7b33_9
++defaults/win-64::contourpy-1.2.1-py39h214f63a_1
++defaults/win-64::fonttools-4.55.3-py39h827c3e9_0
++defaults/win-64::freetype-2.12.1-ha860e81_0
++defaults/win-64::icu-73.1-h6c2663c_0
++defaults/win-64::importlib_resources-6.4.0-py39haa95532_0
++defaults/win-64::jpeg-9e-h827c3e9_3
++defaults/win-64::kiwisolver-1.4.4-py39hd77b12b_0
++defaults/win-64::krb5-1.20.1-h5b6d351_0
++defaults/win-64::lcms2-2.16-hb4a4139_0
++defaults/win-64::lerc-4.0.0-h5da7b33_0
++defaults/win-64::libdeflate-1.22-h5bf469e_0
++defaults/win-64::libpng-1.6.39-h8cc25b3_0
++defaults/win-64::libpq-17.4-h70ee33d_0
++defaults/win-64::libtiff-4.5.1-h44ae7cf_1
++defaults/win-64::libwebp-base-1.3.2-h3d04722_1
++defaults/win-64::lz4-c-1.9.4-h2bbff1b_1
++defaults/win-64::matplotlib-3.9.2-py39haa95532_1
++defaults/win-64::matplotlib-base-3.9.2-py39he19b0ae_1
++defaults/win-64::numexpr-2.10.1-py39h4cd664f_0
++defaults/win-64::openjpeg-2.5.2-hae555c5_0
++defaults/win-64::packaging-24.2-py39haa95532_0
++defaults/win-64::pandas-2.2.3-py39h5da7b33_0
++defaults/win-64::pillow-11.1.0-py39h096bfcc_0
++defaults/win-64::pyparsing-3.2.0-py39haa95532_0
++defaults/win-64::pyqt-6.7.1-py39h5da7b33_0
++defaults/win-64::pyqt6-sip-13.9.1-py39h827c3e9_0
++defaults/win-64::python-dateutil-2.9.0post0-py39haa95532_2
++defaults/win-64::pytz-2024.1-py39haa95532_0
++defaults/win-64::qtbase-6.7.3-h0804d20_0
++defaults/win-64::qtdeclarative-6.7.3-h5da7b33_0
++defaults/win-64::qtsvg-6.7.3-hf2fb9eb_0
++defaults/win-64::qttools-6.7.3-h0de5f00_0
++defaults/win-64::qtwebchannel-6.7.3-h5da7b33_0
++defaults/win-64::qtwebsockets-6.7.3-h5da7b33_0
++defaults/win-64::sip-6.10.0-py39h5da7b33_0
++defaults/win-64::tomli-2.0.1-py39haa95532_0
++defaults/win-64::tornado-6.4.2-py39h827c3e9_0
++defaults/win-64::unicodedata2-15.1.0-py39h827c3e9_1
++defaults/win-64::xz-5.6.4-h4754444_1
++defaults/win-64::zipp-3.21.0-py39haa95532_0
++defaults/win-64::zlib-1.2.13-h8cc25b3_1
++defaults/win-64::zstd-1.5.6-h8880b57_0
+# update specs: ['matplotlib', 'pandas']
+==> 2025-04-01 11:44:04 <==
+# cmd: c:\Users\LENOVO\anaconda3\Scripts\conda-script.py install -c conda-forge --prefix d:/DS-Project/Data-Science-AI-ML-DL/.venv ipykernel -y
+# conda version: 24.11.3
+-defaults/win-64::openssl-3.0.16-h3f729d1_0
+-defaults/win-64::vs2015_runtime-14.42.34433-he0abc0d_4
++conda-forge/noarch::asttokens-3.0.0-pyhd8ed1ab_1
++conda-forge/noarch::colorama-0.4.6-pyhd8ed1ab_1
++conda-forge/noarch::comm-0.2.2-pyhd8ed1ab_1
++conda-forge/noarch::cpython-3.9.21-py39hd8ed1ab_1
++conda-forge/noarch::decorator-5.2.1-pyhd8ed1ab_0
++conda-forge/noarch::exceptiongroup-1.2.2-pyhd8ed1ab_1
++conda-forge/noarch::executing-2.1.0-pyhd8ed1ab_1
++conda-forge/noarch::importlib-metadata-8.6.1-pyha770c72_0
++conda-forge/noarch::ipykernel-6.29.5-pyh4bbf305_0
++conda-forge/noarch::ipython-8.18.1-pyh7428d3b_3
++conda-forge/noarch::jedi-0.19.2-pyhd8ed1ab_1
++conda-forge/noarch::jupyter_client-8.6.3-pyhd8ed1ab_1
++conda-forge/noarch::jupyter_core-5.7.2-pyh5737063_1
++conda-forge/noarch::matplotlib-inline-0.1.7-pyhd8ed1ab_1
++conda-forge/noarch::nest-asyncio-1.6.0-pyhd8ed1ab_1
++conda-forge/noarch::parso-0.8.4-pyhd8ed1ab_1
++conda-forge/noarch::pickleshare-0.7.5-pyhd8ed1ab_1004
++conda-forge/noarch::platformdirs-4.3.7-pyh29332c3_0
++conda-forge/noarch::prompt-toolkit-3.0.50-pyha770c72_0
++conda-forge/noarch::pure_eval-0.2.3-pyhd8ed1ab_1
++conda-forge/noarch::pygments-2.19.1-pyhd8ed1ab_0
++conda-forge/noarch::stack_data-0.6.3-pyhd8ed1ab_1
++conda-forge/noarch::traitlets-5.14.3-pyhd8ed1ab_1
++conda-forge/noarch::typing_extensions-4.13.0-pyh29332c3_1
++conda-forge/noarch::wcwidth-0.2.13-pyhd8ed1ab_1
++conda-forge/win-64::debugpy-1.8.13-py39ha51f57c_0
++conda-forge/win-64::libsodium-1.0.18-h8d14728_1
++conda-forge/win-64::openssl-3.4.1-ha4e3fda_0
++conda-forge/win-64::psutil-7.0.0-py39ha55e580_0
++conda-forge/win-64::python_abi-3.9-2_cp39
++conda-forge/win-64::pywin32-307-py39ha51f57c_3
++conda-forge/win-64::pyzmq-26.2.0-py39h03e5c00_1
++conda-forge/win-64::ucrt-10.0.22621.0-h57928b3_1
++conda-forge/win-64::vc14_runtime-14.42.34438-hfd919c2_26
++conda-forge/win-64::vs2015_runtime-14.42.34438-h7142326_26
++conda-forge/win-64::zeromq-4.3.5-he0c23c2_3
+# update specs: ['ipykernel']
+==> 2025-04-01 11:52:32 <==
+# cmd: C:\Users\LENOVO\anaconda3\Scripts\conda-script.py install seaborn -y
+# conda version: 24.11.3
++defaults/win-64::seaborn-0.13.2-py39haa95532_2
+# update specs: ['seaborn']
+==> 2025-04-01 12:08:13 <==
+# cmd: C:\Users\LENOVO\anaconda3\Scripts\conda-script.py install scikit-learn -y
+# conda version: 24.11.3
++defaults/noarch::pybind11-abi-5-hd3eb1b0_0
++defaults/win-64::icc_rt-2022.1.0-h6049295_2
++defaults/win-64::joblib-1.4.2-py39haa95532_0
++defaults/win-64::scikit-learn-1.6.1-py39h585ebfc_0
++defaults/win-64::scipy-1.13.1-py39h8640f81_1
++defaults/win-64::threadpoolctl-3.5.0-py39h9909e9c_0
+# update specs: ['scikit-learn']
+==> 2025-04-01 12:53:23 <==
+# cmd: C:\Users\LENOVO\anaconda3\Scripts\conda-script.py install statsmodels -y
+# conda version: 24.11.3
++defaults/win-64::patsy-1.0.1-py39haa95532_0
++defaults/win-64::statsmodels-0.14.4-py39h827c3e9_0
+# update specs: ['statsmodels']
